@@ -18,7 +18,7 @@ A production-ready implementation of the classic 2048 puzzle game built with Rea
 1. Clone the repository:
 ```bash
 git clone <your-repo-url>
-cd 2048-game
+cd 2048
 ```
 
 2. Install dependencies:
